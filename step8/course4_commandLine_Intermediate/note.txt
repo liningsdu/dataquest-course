@@ -1,0 +1,2 @@
+1. PATH is a dynamic - named value specifying a set of directories where executable programs are located
+2. Environment variable can be accessed through any program runned from the shell. use export to create environment variable.
